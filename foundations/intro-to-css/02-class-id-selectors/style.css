@@ -9,16 +9,13 @@ font-size:22px
 }
 
 #second {
-    font-size: 30px;
+    font-size: 40px;
     color: blue;
 }
 
 #third {
     background-color: green;
-    font-weight: 800
-    
+    font-weight: 800;
+     font-size: 22px; 
 }
 
-#third {
-    font-size: 30px;
-}
