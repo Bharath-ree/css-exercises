@@ -1,0 +1,24 @@
+/*style.css*/
+p {
+    background-color: red;
+
+}
+
+.number3{
+font-size:22px 
+}
+
+#second {
+    font-size: 30px;
+    color: blue;
+}
+
+#third {
+    background-color: green;
+    font-weight: 800
+    
+}
+
+#third {
+    font-size: 30px;
+}
