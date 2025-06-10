@@ -1,0 +1,19 @@
+.left-side {
+    background-color: black;
+    font-size: 28px;
+    color: white;
+    text-align: center;
+
+
+}
+.right-side {
+    background-color: rgb(231, 247, 7);
+    font-size: 28px;
+    color: black;
+    text-align: center;
+}
+
+button {
+    font-family: Helvetica,"Times New Roman", sans-serif;
+
+}
